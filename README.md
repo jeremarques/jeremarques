@@ -23,7 +23,12 @@
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVJere&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
+##
+  
   ![Snake animation](https://github.com/DEVJere/DEVJere/blob/output/github-contribution-grid-snake.svg)
+  
+##
+
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/jereemarques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatojeredev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
