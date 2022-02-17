@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jeremias Marques</h1>
+<h1 align="leftr">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jeremias Marques</h1>
 
 - 👨‍🎓 I'm currently studying Web Development at [Rocketseat](https://github.com/Rocketseat)
 
