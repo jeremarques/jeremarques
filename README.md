@@ -1,6 +1,6 @@
 <h1 align="leftr">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jeremias Marques</h1>
 <div>
-- 👨‍🎓 I'm currently studying Web Development at <img align="center" alt="Jere-rocket" height="30" width="40" src="http://www.onsoluti.com.br/imagens/foguete-site-em-breve.gif"><a href="https://github.com/Rocketseat">Rocketseat</a>
+&nbsp;&nbsp;&nbsp;- 👨‍🎓 I'm currently studying Web Development at <img align="center" alt="Jere-rocket" height="30" width="40" src="http://www.onsoluti.com.br/imagens/foguete-site-em-breve.gif"><a href="https://github.com/Rocketseat">Rocketseat</a>
 
 - 📚 I'm learning **JavaScript, HTML, CSS**
 
