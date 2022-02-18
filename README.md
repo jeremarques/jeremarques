@@ -13,7 +13,7 @@
   <img align="center" alt="Jere-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jere-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jere-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Jere-gif" height="190" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+  <img align="right" alt="Jere-rocket" height="200" src="https://cdn.discordapp.com/attachments/923376412012974110/944244629484765254/Webp.net-gifmaker_1.gif">
 </div>
 
 ## <img alt="engrenagem-gif" height="30" src="https://acegif.com/wp-content/uploads/loading-73.gif"> &nbsp;GitHub Analytics
@@ -30,12 +30,10 @@
 </div>
   
   ![Snake animation](https://github.com/DEVJere/DEVJere/blob/output/github-contribution-grid-snake.svg)
-<br><br>
 <div align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="Jere-gif" height="190" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"><br>
   <strong align="center">Profile inspiration credits:</strong><br>
   <a href="https://github.com/rafaballerini">Rafaella Ballerini</a>&nbsp;|&nbsp;<a href="https://github.com/maykbrito">Mayk Brito</a><br>
-  <strong>Thanks!</strong>
-</div>  
-<div align="center">
-  <img align="center" alt="Jere-Js" height="30" src="https://i.pinimg.com/originals/46/62/2b/46622b3e86e100c8dc11795b02f2ae90.gif">
+  <strong>Thanks!</strong><br>
+  <img align="center" alt="Jere-Js" height="30" src="https://i.pinimg.com/originals/46/62/2b/46622b3e86e100c8dc11795b02f2ae90.gif"><br>
 </div>
