@@ -1,13 +1,13 @@
 <h1 align="leftr">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jeremias Marques</h1>
-<div>
-&nbsp;&nbsp;&nbsp;- 👨‍🎓 I'm currently studying Web Development at <img align="center" alt="Jere-rocket" height="30" width="40" src="http://www.onsoluti.com.br/imagens/foguete-site-em-breve.gif"><a href="https://github.com/Rocketseat">Rocketseat</a>
+
+- 👨‍🎓 I'm currently studying Web Development at <img align="center" alt="Jere-rocket" height="30" width="40" src="http://www.onsoluti.com.br/imagens/foguete-site-em-breve.gif"><a href="https://github.com/Rocketseat">Rocketseat</a>
 
 - 📚 I'm learning **JavaScript, HTML, CSS**
 
 - 👨‍💻 I post some projects on my <img align="center" alt="Jere-Insta" height="30" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif"><a href="https://www.instagram.com/jereemarques/">Instagram</a>
 
 - 😉 I know a little about Graphic Design
-</div>
+
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Jere-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jere-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
