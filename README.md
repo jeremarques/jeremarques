@@ -31,7 +31,6 @@
   
   ![Snake animation](https://github.com/DEVJere/DEVJere/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="Jere-gif-function" height="190" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"><br>
   <strong align="center">Profile inspiration credits:</strong><br>
   <a href="https://github.com/rafaballerini">Rafaella Ballerini</a>&nbsp;|&nbsp;<a href="https://github.com/maykbrito">Mayk Brito</a><br>
   <strong>Thanks!</strong><br>
