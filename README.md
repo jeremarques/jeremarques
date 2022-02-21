@@ -21,6 +21,7 @@
 <div align="left">
   <a href="https://github.com/DEVJere">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEVJere&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVJere&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ## <img alt="clip-gif" height="30" src="https://cdn.discordapp.com/attachments/923376412012974110/944038515560300644/output_MxbuuA.gif">&nbsp;More
