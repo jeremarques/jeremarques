@@ -23,7 +23,7 @@
 ## <img alt="engrenagem-gif" height="30" src="https://acegif.com/wp-content/uploads/loading-73.gif"> &nbsp;GitHub Analytics
 
 <div align="rigth">
-  <a href="https://github.com/DEVJere">
+  <a href="https://github.com/jeremarques">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeremarques&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 </div>
   
