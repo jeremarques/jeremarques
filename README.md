@@ -31,7 +31,7 @@
 <div align="left" >
   <a href="https://instagram.com/jereemarques" target="_blank"><img height="35" src="https://www.logo.wine/a/logo/Instagram/Instagram-Glyph-Color-Logo.wine.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeremiasmarques/" target="_blank"><img height="35" src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank"></a>
-  <a href="mailto:contatojeredev@gmail.com" target="_blank"><img height="35" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" target="_blank"></a>
+  <a href="mailto:contactjeremarques@gmail.com" target="_blank"><img height="35" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" target="_blank"></a>
 </div>
   
   ![Snake animation](https://github.com/DEVJere/DEVJere/blob/output/github-contribution-grid-snake.svg)
