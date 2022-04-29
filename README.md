@@ -4,7 +4,7 @@
 
 - 📚 I'm learning **JavaScript, NodeJS, SQLite, HTML, CSS**
 
-- 👨‍💻 I post some projects on my <a href="https://www.instagram.com/jereemarques/">Instagram</a><img align="center" alt="Jere-Insta" height="30" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif">
+- 👨‍💻 I post some projects on my <a href="https://www.instagram.com/jereemarques/">Instagram</a><img align="center" alt="Jere-Insta" height="25" src="https://www.logo.wine/a/logo/Instagram/Instagram-Glyph-Color-Logo.wine.svg">
 
 - 😉 I know a little about Graphic Design
 
