@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I'm currently studying Web Development at <a href="https://github.com/Rocketseat">Rocketseat</a><img align="center" alt="Jere-rocket" height="30" width="40" src="http://www.onsoluti.com.br/imagens/foguete-site-em-breve.gif">
 
-- 📚 I'm learning **JavaScript, NodeJS, SQLite, HTML, CSS**
+- 📚 I'm learning **JavaScript, ReactJS, NodeJS, SQLite, HTML, CSS**
 
 - 👨‍💻 I post some projects on my <a href="https://www.instagram.com/jereemarques/">Instagram</a><img align="center" alt="Jere-Insta" height="25" src="https://www.logo.wine/a/logo/Instagram/Instagram-Glyph-Color-Logo.wine.svg">
 
@@ -10,8 +10,8 @@
 
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Jere-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jere-ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Jere-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Jere-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Jere-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jere-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jere-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
