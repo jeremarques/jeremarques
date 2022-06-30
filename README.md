@@ -36,9 +36,3 @@
 </div>
   
   ![Snake animation](https://github.com/DEVJere/DEVJere/blob/output/github-contribution-grid-snake.svg)
-<div align="center">
-  <strong align="center">Profile inspiration credits:</strong><br>
-  <a href="https://github.com/rafaballerini">Rafaella Ballerini</a>&nbsp;|&nbsp;<a href="https://github.com/maykbrito">Mayk Brito</a><br>
-  <strong>Thanks!</strong>
-  <!-- <img align="center" alt="Jere-likes" height="30" src="https://i.pinimg.com/originals/46/62/2b/46622b3e86e100c8dc11795b02f2ae90.gif"><br> -->
-</div>
