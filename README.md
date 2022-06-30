@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/jeremarques/images-galery/blob/main/Slide%2016_9%20-%201.png?raw=true">
+<img width="100%" src="https://github.com/jeremarques/images-galery/blob/main/Slide%2016_9%20-%201.png">
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jeremias Marques</h1>
 
 - 👨‍🎓 I'm currently studying Web Development at <a href="https://github.com/Rocketseat">Rocketseat</a><img align="center" alt="Jere-rocket" height="30" width="40" src="http://www.onsoluti.com.br/imagens/foguete-site-em-breve.gif">
