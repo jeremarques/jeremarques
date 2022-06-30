@@ -1,10 +1,10 @@
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jeremias Marques</h1>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jeremias Marques</h1>
 
 - 👨‍🎓 I'm currently studying Web Development at <a href="https://github.com/Rocketseat">Rocketseat</a><img align="center" alt="Jere-rocket" height="30" width="40" src="http://www.onsoluti.com.br/imagens/foguete-site-em-breve.gif">
 
-- 📚 I'm learning **JavaScript, ReactJS, NodeJS, SQLite, HTML, CSS**
+- 📚 I'm learning **JavaScript, ReactJS, NodeJS, HTML, CSS, Git**
 
-- 👨‍💻 I post some projects on my <a href="https://www.instagram.com/jereemarques/">Instagram</a><img align="center" alt="Jere-Insta" height="25" src="https://www.logo.wine/a/logo/Instagram/Instagram-Glyph-Color-Logo.wine.svg">
+- 👨‍💻 I post some projects on my <a target="_blank" href="https://www.linkedin.com/in/jeremiasmarques/">LinkedIn</a><img height="20" src="https://img.icons8.com/color/48/000000/linkedin.png">
 
 - 😉 I know a little about Graphic Design
 
