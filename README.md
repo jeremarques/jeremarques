@@ -3,7 +3,7 @@
 
 - 👨‍🎓 I'm currently studying Web Development at <a href="https://github.com/Rocketseat">Rocketseat</a><img align="center" alt="Jere-rocket" height="30" width="40" src="http://www.onsoluti.com.br/imagens/foguete-site-em-breve.gif">
 
-- 📚 I'm learning **JavaScript, ReactJS, NodeJS, HTML, CSS, Git**
+- 📚 I'm learning **TypeScript, JavaScript, React, Node, HTML, CSS, Git**
 
 - 👨‍💻 I post some projects on my <a target="_blank" href="https://www.linkedin.com/in/jeremiasmarques/">LinkedIn</a><img height="20" src="https://img.icons8.com/color/48/000000/linkedin.png">
 
