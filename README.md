@@ -35,4 +35,4 @@
   <a href="mailto:contactjeremarques@gmail.com" target="_blank"><img height="35" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" target="_blank"></a>
 </div>
   
-  ![Snake animation](https://github.com/DEVJere/DEVJere/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jeremarques/jeremarques/blob/output/github-contribution-grid-snake.svg)
