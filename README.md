@@ -21,7 +21,7 @@
   <!-- <img align="right" alt="Jere-programming" height="200" src="https://cdn.discordapp.com/attachments/923376412012974110/944244629484765254/Webp.net-gifmaker_1.gif"> -->
 </div>
 
-## <img alt="engrenagem-gif" height="30" src="https://acegif.com/wp-content/uploads/loading-73.gif"> &nbsp;GitHub Analytics
+## <img alt="engrenagem-gif" height="30" src="https://acegif.com/wp-content/uploads/loading-73"> &nbsp;GitHub Analytics
 
 <div align="rigth">
   <a href="https://github.com/jeremarques">
