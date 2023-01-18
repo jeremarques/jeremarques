@@ -24,7 +24,7 @@
 ## <img alt="engrenagem-gif" height="30" src="https://acegif.com/wp-content/uploads/loading-73.gif"> &nbsp;GitHub Analytics
 
 <div align="rigth">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremarques&show_icons=true&bg_color=00000000)
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremarques&show_icons=true&bg_color=00000000)">
 </div>
   
 ## <img alt="clip-gif" height="30" src="https://cdn.discordapp.com/attachments/923376412012974110/944038515560300644/output_MxbuuA.gif">&nbsp;More
