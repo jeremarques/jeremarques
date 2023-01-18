@@ -27,6 +27,7 @@
   <a href="https://github.com/jeremarques">
   ![](https://github.com/jeremarques/github-stats/blob/master/generated/overview.svg)
   ![](https://github.com/jeremarques/github-stats/blob/master/generated/languages.svg)
+  </a>
 </div>
   
 ## <img alt="clip-gif" height="30" src="https://cdn.discordapp.com/attachments/923376412012974110/944038515560300644/output_MxbuuA.gif">&nbsp;More
