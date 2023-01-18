@@ -23,7 +23,7 @@
 
 ## <img alt="engrenagem-gif" height="30" src="https://acegif.com/wp-content/uploads/loading-73.gif"> &nbsp;GitHub Analytics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeremarques&theme=windows-dark&border=002D56)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeremarques&theme=windows-dark&border=002D56&background=0D1117)](https://git.io/streak-stats)
   
 ## <img alt="clip-gif" height="30" src="https://cdn.discordapp.com/attachments/923376412012974110/944038515560300644/output_MxbuuA.gif">&nbsp;More
 <div align="left" >
