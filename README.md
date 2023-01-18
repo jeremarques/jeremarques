@@ -25,8 +25,7 @@
 
 <div align="rigth">
   <a href="https://github.com/jeremarques">
-  ![](https://github.com/jeremarques/github-stats/blob/master/generated/overview.svg)
-  ![](https://github.com/jeremarques/github-stats/blob/master/generated/languages.svg)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jeremarques=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </div>
   
