@@ -25,7 +25,8 @@
 
 <div align="rigth">
   <a href="https://github.com/jeremarques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeremarques&show_icons=true&theme=dracula&include_all_commits=true"/>
+  ![](https://github.com/jeremarques/github-stats/blob/master/generated/overview.svg)
+  ![](https://github.com/jeremarques/github-stats/blob/master/generated/languages.svg)
 </div>
   
 ## <img alt="clip-gif" height="30" src="https://cdn.discordapp.com/attachments/923376412012974110/944038515560300644/output_MxbuuA.gif">&nbsp;More
