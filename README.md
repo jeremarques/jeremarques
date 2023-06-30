@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/jeremarques/theme-switcher/blob/main/assets/Slide%2016_9%20-%201.png">
+<img width="100%" src="https://github.com/jeremarques/theme-switcher/blob/main/assets/cover-design2.png">
 <h1 align="left">Hi!👋 I'm Jeremias Marques</h1>
 
 - 👨‍💻 I'm work actually with **Python, Django, JavaScript, Docker, PostgreSQL, Bootstrap**
