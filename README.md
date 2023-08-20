@@ -30,5 +30,3 @@
 ## Analytics
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeremarques&theme=github-dark-blue&border=44636D&background=0D1117)](https://git.io/streak-stats)
-  
-![Snake animation](https://github.com/jeremarques/jeremarques/blob/output/github-contribution-grid-snake.svg)
