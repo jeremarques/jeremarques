@@ -3,7 +3,7 @@
 
 - 👨‍💻 I'm work actually with **Python, Django, JavaScript, Docker, PostgreSQL, Bootstrap**
 
-- 📚 I'm learning TypeScript, React, Node, PHP, Advanced JavaScript, UX and UI Design
+- 📚 I'm learning TypeScript, React, Node, PHP, Python and JavaScript Advanced, UX and UI Design
 
 - 🖊️ I post some projects and share my knowledge on my <a target="_blank" href="https://www.linkedin.com/in/jeremiasmarques/">LinkedIn</a><img height="20" src="https://img.icons8.com/color/48/000000/linkedin.png">
 
