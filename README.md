@@ -29,4 +29,4 @@
 
 ## Analytics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeremarques&theme=github-dark-blue&border=44636D&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeremarques&theme=github-dark-blue)](https://git.io/streak-stats)
