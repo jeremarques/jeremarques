@@ -1,9 +1,9 @@
 <img width="100%" src="https://github.com/jeremarques/theme-switcher/blob/main/assets/cover-design2.png">
 <h1 align="left">Hi!👋 I'm Jeremias Marques</h1>
 
-- Trying to be 1% better than yesterday 
-
 - 🖊️ I post some projects and share my knowledge on my <a target="_blank" href="https://www.linkedin.com/in/jeremiasmarques/">LinkedIn</a><img height="20" src="https://img.icons8.com/color/48/000000/linkedin.png">
+
+- Some of the tools I use
 
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Jere-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
