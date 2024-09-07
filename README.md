@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/jeremarques/theme-switcher/blob/main/assets/cover-design2.png">
+<img width="100%" src="https://github.com/jeremarques/theme-switcher/blob/main/assets/linkedin-cover.png">
 <h1 align="left">Hi!👋 I'm Jeremias Marques</h1>
 
 - 🖊️ I post some projects and share my knowledge on my <a target="_blank" href="https://www.linkedin.com/in/jeremiasmarques/">LinkedIn</a><img height="20" src="https://img.icons8.com/color/48/000000/linkedin.png">
